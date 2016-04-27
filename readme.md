@@ -1,11 +1,10 @@
-# google-icon [![Build Status](https://travis-ci.org/ajoslin/google-sign-in-button.svg?branch=master)](https://travis-ci.org/ajoslin/google-sign-in-button)
+# google-icon [![Build Status](https://travis-ci.org/ajoslin/google-signin-icon.svg?branch=master)](https://travis-ci.org/ajoslin/google-signin-icon)
 
-> Render a virtual dom google sign in icon
-
+> Render a virtual dom google sign in svg icon
 ## Install
 
 ```
-$ npm install --save google-sign-in-button
+$ npm install --save google-signin-icon
 ```
 
 
