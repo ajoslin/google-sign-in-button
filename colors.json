@@ -1,0 +1,10 @@
+{
+  "dark": {
+    "background": "#4285F4",
+    "text": "white"
+  },
+  "light": {
+    "background": "#FFF",
+    "text": "rgba(0,0,0,0.54)"
+  }
+}
