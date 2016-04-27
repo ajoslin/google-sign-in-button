@@ -1,6 +1,7 @@
-# google-icon [![Build Status](https://travis-ci.org/ajoslin/google-signin-icon.svg?branch=master)](https://travis-ci.org/ajoslin/google-signin-icon)
+# google-signin-icon [![Build Status](https://travis-ci.org/ajoslin/google-signin-icon.svg?branch=master)](https://travis-ci.org/ajoslin/google-signin-icon)
 
 > Render a virtual dom google sign in svg icon
+
 ## Install
 
 ```

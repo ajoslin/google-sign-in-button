@@ -1,5 +1,5 @@
 {
-  "name": "google-sign-in-button",
+  "name": "google-signin-icon",
   "main": "index.js",
   "version": "0.0.0",
   "description": "Render a virtual dom google sign in svg icon",
