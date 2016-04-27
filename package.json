@@ -1,7 +1,7 @@
 {
   "name": "google-signin-icon",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render a virtual dom google sign in svg icon",
   "license": "MIT",
   "repository": "ajoslin/google-signin-icon",
