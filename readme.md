@@ -2,6 +2,8 @@
 
 > Render a virtual dom google sign in svg icon
 
+![](http://ajoslin.co/19f58/2eOhAJuB+)
+
 ## Install
 
 ```
